@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>project news</title>
+    </head>
+    <body>
+        <outline title="operating system" text="operating system">
+            <outline text="coreutils" title="coreutils" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gnu.coreutils.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gnu.coreutils.announce"/>
+            <outline text="cpio" title="cpio" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=cpio" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dcpio"/>
+            <outline text="cppi" title="cppi" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=cppi" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dcppi"/>
+            <outline text="cygwin" title="cygwin" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.os.cygwin.announce" htmlUrl="http://blog.gmane.org/gmane.os.cygwin.announce"/>
+            <outline text="devicekit" title="devicekit" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.freedesktop.devicekit.devel" htmlUrl="http://blog.gmane.org/gmane.comp.freedesktop.devicekit.devel"/>
+            <outline text="diffutils" title="diffutils" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=diffutils" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Ddiffutils"/>
+            <outline text="dracut" title="dracut" type="rss"
+                xmlUrl="http://page2rss.com/rss/117509ea1754a3f2682fa46668b0eae0" htmlUrl="http://page2rss.com/117509ea1754a3f2682fa46668b0eae0"/>
+            <outline text="elfutils" title="elfutils" type="rss"
+                xmlUrl="http://page2rss.com/rss/ee7e709e8df1619ecf3e6955de6bb94e" htmlUrl="http://page2rss.com/ee7e709e8df1619ecf3e6955de6bb94e"/>
+            <outline text="fedora" title="fedora" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.linux.redhat.fedora.core.announce" htmlUrl="http://blog.gmane.org/gmane.linux.redhat.fedora.core.announce"/>
+            <outline text="fedora-devel" title="fedora-devel" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.linux.redhat.fedora.devel.announce" htmlUrl="http://blog.gmane.org/gmane.linux.redhat.fedora.devel.announce"/>
+            <outline text="gawk" title="gawk" type="rss"
+                xmlUrl="http://page2rss.com/rss/8fa8760798765b0d9af7ea4256e538c7" htmlUrl="http://page2rss.com/8fa8760798765b0d9af7ea4256e538c7"/>
+            <outline text="glibc" title="glibc" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.lib.glibc.announce" htmlUrl="http://blog.gmane.org/gmane.comp.lib.glibc.announce"/>
+            <outline text="gnulib" title="gnulib" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=gnulib" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dgnulib"/>
+            <outline text="grep" title="grep" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=grep" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dgrep"/>
+            <outline text="grub" title="grub" type="rss"
+                xmlUrl="http://page2rss.com/rss/660dfeeb317224f588f9768fd5a97389" htmlUrl="http://page2rss.com/660dfeeb317224f588f9768fd5a97389"/>
+            <outline text="idutils" title="idutils" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=idutils" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Didutils"/>
+            <outline text="Kernel Audit" title="Kernel Audit" type="rss"
+                xmlUrl="http://page2rss.com/rss/f80c25c46cf1d7ad3f68ef36bd0e75f2" htmlUrl="http://page2rss.com/f80c25c46cf1d7ad3f68ef36bd0e75f2"/>
+            <outline text="libuser" title="libuser" type="rss"
+                xmlUrl="http://page2rss.com/rss/3dee4a1a10ed94c5fde96d1cdff3c7ce" htmlUrl="http://page2rss.com/3dee4a1a10ed94c5fde96d1cdff3c7ce"/>
+            <outline text="libxml" title="libxml" type="rss"
+                xmlUrl="http://page2rss.com/rss/39d481f937a837fc8e6a929933636b96" htmlUrl="http://page2rss.com/39d481f937a837fc8e6a929933636b96"/>
+            <outline text="libxslt" title="libxslt" type="rss"
+                xmlUrl="http://page2rss.com/rss/e2be17a7461455a5b6464ce8c6481713" htmlUrl="http://page2rss.com/e2be17a7461455a5b6464ce8c6481713"/>
+            <outline text="linux" title="linux" type="rss"
+                xmlUrl="http://www.kernel.org/kdist/rss.xml" htmlUrl="http://www.kernel.org/"/>
+            <outline text="netfilter" title="netfilter" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.security.firewalls.netfilter.announce" htmlUrl="http://blog.gmane.org/gmane.comp.security.firewalls.netfilter.announce"/>
+            <outline text="NetworkManager" title="NetworkManager"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/1c4fe9e5bbb919731beb3fc6c8372849" htmlUrl="http://page2rss.com/1c4fe9e5bbb919731beb3fc6c8372849"/>
+            <outline text="openssh" title="openssh" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.network.openssh.announce" htmlUrl="http://blog.gmane.org/gmane.network.openssh.announce"/>
+            <outline text="openssl" title="openssl" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.encryption.openssl.announce" htmlUrl="http://blog.gmane.org/gmane.comp.encryption.openssl.announce"/>
+            <outline text="packagekit" title="packagekit" type="rss"
+                xmlUrl="http://page2rss.com/rss/c832f9a7f4e788aadc9e3b9acc19e734" htmlUrl="http://page2rss.com/c832f9a7f4e788aadc9e3b9acc19e734"/>
+            <outline text="parted" title="parted" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=parted" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dparted"/>
+            <outline text="polkit" title="polkit" type="rss"
+                xmlUrl="http://page2rss.com/rss/81b552689f291a9f7139d56dbc15c14b" htmlUrl="http://page2rss.com/81b552689f291a9f7139d56dbc15c14b"/>
+            <outline text="psmisc" title="psmisc" type="rss"
+                xmlUrl="http://page2rss.com/rss/fcc0a4d956c1519bedb9855f23b78e68" htmlUrl="http://page2rss.com/fcc0a4d956c1519bedb9855f23b78e68"/>
+            <outline text="Pulp" title="Pulp" type="rss"
+                xmlUrl="http://www.pulpproject.org/blog/feed/" htmlUrl="http://www.pulpproject.org"/>
+            <outline text="PulseAudio" title="PulseAudio" type="rss"
+                xmlUrl="http://page2rss.com/rss/8fdbda4c3655e3d15e4a4ad71a6d28bb" htmlUrl="http://page2rss.com/8fdbda4c3655e3d15e4a4ad71a6d28bb"/>
+            <outline text="pungi" title="pungi" type="rss"
+                xmlUrl="http://page2rss.com/rss/a0cc31131fcbd03603a5433a7cb6132a" htmlUrl="http://page2rss.com/a0cc31131fcbd03603a5433a7cb6132a"/>
+            <outline text="python-nss" title="python-nss" type="rss"
+                xmlUrl="http://page2rss.com/rss/e8f4eb7a4cfbad92d496cf0b259cb2e7" htmlUrl="http://page2rss.com/e8f4eb7a4cfbad92d496cf0b259cb2e7"/>
+            <outline text="rpm" title="rpm" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.linux.rpm.announce" htmlUrl="http://blog.gmane.org/gmane.linux.rpm.announce"/>
+            <outline text="rsyslog" title="rsyslog" type="rss"
+                xmlUrl="http://www.rsyslog.com/news/feed/" htmlUrl="http://www.rsyslog.com"/>
+            <outline text="sed" title="sed" type="rss"
+                xmlUrl="http://page2rss.com/rss/279704b91e20358a4ae60cd875c1f85d" htmlUrl="http://page2rss.com/279704b91e20358a4ae60cd875c1f85d"/>
+            <outline text="selinux" title="selinux" type="rss"
+                xmlUrl="http://selinuxnews.org/wp/index.php/feed/" htmlUrl="http://selinuxnews.org/wp"/>
+            <outline text="spacewalk" title="spacewalk" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.linux.redhat.spacewalk.announce" htmlUrl="http://blog.gmane.org/gmane.linux.redhat.spacewalk.announce"/>
+            <outline text="systemd" title="systemd" type="rss"
+                xmlUrl="http://page2rss.com/rss/2643eaad28643a8788bc0d7379e5be09" htmlUrl="http://page2rss.com/2643eaad28643a8788bc0d7379e5be09"/>
+            <outline text="tin" title="tin" type="rss"
+                xmlUrl="http://page2rss.com/rss/4c2939e75651678607d5cdebcef08d65" htmlUrl="http://page2rss.com/4c2939e75651678607d5cdebcef08d65"/>
+            <outline text="udisks" title="udisks" type="rss"
+                xmlUrl="http://page2rss.com/rss/0d939005fe2fa30dfb23eef3d930195c" htmlUrl="http://page2rss.com/0d939005fe2fa30dfb23eef3d930195c"/>
+            <outline text="upower" title="upower" type="rss"
+                xmlUrl="http://page2rss.com/rss/cf2cd785231568717cbcae7979b96304" htmlUrl="http://page2rss.com/cf2cd785231568717cbcae7979b96304"/>
+            <outline text="util-linux" title="util-linux" type="rss"
+                xmlUrl="http://page2rss.com/rss/d414e52ac5ecc1ac6571a13f5e4ebad7" htmlUrl="http://page2rss.com/d414e52ac5ecc1ac6571a13f5e4ebad7"/>
+        </outline>
+        <outline title="middleware" text="middleware">
+            <outline text="389" title="389" type="rss"
+                xmlUrl="http://page2rss.com/rss/2ce5a57466d00066b676d0db1829b9d3" htmlUrl="http://page2rss.com/2ce5a57466d00066b676d0db1829b9d3"/>
+            <outline text="aerogear" title="aerogear" type="rss"
+                xmlUrl="http://page2rss.com/rss/18bf56ae48fde1823e5e020d41352a3a" htmlUrl="http://page2rss.com/18bf56ae48fde1823e5e020d41352a3a"/>
+            <outline text="apache" title="apache" type="rss"
+                xmlUrl="https://blogs.apache.org/foundation/feed/entries/atom" htmlUrl="https://blogs.apache.org/foundation/"/>
+            <outline text="arquillian" title="arquillian" type="rss"
+                xmlUrl="http://arquillian.org/blog/atom.xml" htmlUrl="http://arquillian.org/blog"/>
+            <outline text="blacktie" title="blacktie" type="rss"
+                xmlUrl="http://jboss-blacktie.blogspot.com/atom.xml" htmlUrl="http://jboss-blacktie.blogspot.com/"/>
+            <outline text="boxgrinder" title="boxgrinder" type="rss"
+                xmlUrl="http://boxgrinder.org/blog.atom" htmlUrl="http://boxgrinder.org/"/>
+            <outline text="byteman" title="byteman" type="rss"
+                xmlUrl="http://bytemanblog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://bytemanblog.blogspot.com/"/>
+            <outline text="camel" title="camel" type="rss"
+                xmlUrl="http://page2rss.com/1f99995d90ae1123b4590826d38298d3" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2F1f99995d90ae1123b4590826d38298d3"/>
+            <outline text="capedwarf" title="capedwarf" type="rss"
+                xmlUrl="https://community.jboss.org/community/feeds/announcements?community=2280" htmlUrl="https://community.jboss.org/community/capedwarf"/>
+            <outline text="deltaspike" title="deltaspike" type="rss"
+                xmlUrl="http://page2rss.com/rss/7032a0ff846ac040c9f2ca03c360d801" htmlUrl="http://page2rss.com/7032a0ff846ac040c9f2ca03c360d801"/>
+            <outline text="dogtag" title="dogtag" type="rss"
+                xmlUrl="http://page2rss.com/rss/52ebaa0c1c5b05243b30c6d99925ff2c" htmlUrl="http://page2rss.com/52ebaa0c1c5b05243b30c6d99925ff2c"/>
+            <outline text="drools" title="drools" type="rss"
+                xmlUrl="http://blog.athico.com/feeds/posts/default" htmlUrl="http://blog.athico.com/"/>
+            <outline text="errai" title="errai" type="rss"
+                xmlUrl="http://errai-blog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://errai-blog.blogspot.com/"/>
+            <outline text="freeipa" title="freeipa" type="rss"
+                xmlUrl="http://page2rss.com/rss/b222c5ff70ba5dcf362a81722fac60c3" htmlUrl="http://page2rss.com/b222c5ff70ba5dcf362a81722fac60c3"/>
+            <outline text="gatein" title="gatein" type="rss"
+                xmlUrl="https://community.jboss.org/en/feeds/blogs?community=2183" htmlUrl="https://community.jboss.org/community/gatein?view=blog"/>
+            <outline text="hibernate" title="hibernate" type="rss"
+                xmlUrl="http://in.relation.to/service/Feed/atom/Tag/Hibernate" htmlUrl="http://in.relation.to/"/>
+            <outline text="hornetq" title="hornetq" type="rss"
+                xmlUrl="http://hornetq.blogspot.com/feeds/posts/default" htmlUrl="http://hornetq.blogspot.com/"/>
+            <outline text="httpd" title="httpd" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.apache.announce" htmlUrl="http://blog.gmane.org/gmane.comp.apache.announce"/>
+            <outline text="immutant" title="immutant" type="rss"
+                xmlUrl="http://immutant.org/news.atom" htmlUrl="http://immutant.org/"/>
+            <outline text="infinispan" title="infinispan" type="rss"
+                xmlUrl="http://infinispan.blogspot.com/feeds/posts/default" htmlUrl="http://infinispan.blogspot.com/"/>
+            <outline text="JBoss ESB" title="JBoss ESB" type="rss"
+                xmlUrl="http://jbossesb.blogspot.com/feeds/posts/default" htmlUrl="http://jbossesb.blogspot.com/"/>
+            <outline text="JBoss Mass" title="JBoss Mass" type="rss"
+                xmlUrl="https://community.jboss.org/en/feeds/blogs?community=2141" htmlUrl="https://community.jboss.org/community/mass?view=blog"/>
+            <outline text="JBoss Portlet Bridge"
+                title="JBoss Portlet Bridge" type="rss"
+                xmlUrl="https://community.jboss.org/en/portletbridge/blog/feeds/posts" htmlUrl="https://community.jboss.org/community/portletbridge/blog"/>
+            <outline text="JBoss Tools" title="JBoss Tools" type="rss"
+                xmlUrl="https://community.jboss.org/en/feeds/blogs?community=2128" htmlUrl="https://community.jboss.org/community/tools?view=blog"/>
+            <outline text="JBoss Transactions"
+                title="JBoss Transactions" type="rss"
+                xmlUrl="http://jbossts.blogspot.com/feeds/posts/default" htmlUrl="http://jbossts.blogspot.com/"/>
+            <outline text="JBoss Web Services"
+                title="JBoss Web Services" type="rss"
+                xmlUrl="http://jbossws.blogspot.com/feeds/posts/default" htmlUrl="http://jbossws.blogspot.com/"/>
+            <outline text="jBPM" title="jBPM" type="rss"
+                xmlUrl="http://kverlaen.blogspot.com/feeds/posts/default" htmlUrl="http://kverlaen.blogspot.com/"/>
+            <outline text="jgroups" title="jgroups" type="rss"
+                xmlUrl="http://belaban.blogspot.com/feeds/posts/default/-/jgroups%20release" htmlUrl="http://belaban.blogspot.com/search/label/jgroups%20release"/>
+            <outline text="jopr" title="jopr" type="rss"
+                xmlUrl="https://community.jboss.org/community/feeds/announcements?community=2106" htmlUrl="https://community.jboss.org/community/jbossas/embjopr"/>
+            <outline text="JSFUnit" title="JSFUnit" type="rss"
+                xmlUrl="http://jsfunit.blogspot.com/feeds/posts/default" htmlUrl="http://jsfunit.blogspot.com/"/>
+            <outline text="MIT Kerberos" title="MIT Kerberos" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.encryption.kerberos.announce" htmlUrl="http://blog.gmane.org/gmane.comp.encryption.kerberos.announce"/>
+            <outline text="ModeShape" title="ModeShape" type="rss"
+                xmlUrl="http://modeshape.wordpress.com/feed/" htmlUrl="http://modeshape.wordpress.com"/>
+            <outline text="Netty" title="Netty" type="rss"
+                xmlUrl="http://feeds.feedburner.com/netty_project" htmlUrl="http://netty.io/Blog/WebHome"/>
+            <outline text="picketbox" title="picketbox" type="rss"
+                xmlUrl="http://anil-identity.blogspot.com/feeds/posts/default/-/picketbox" htmlUrl="http://anil-identity.blogspot.com/search/label/picketbox"/>
+            <outline text="picketlink" title="picketlink" type="rss"
+                xmlUrl="http://anil-identity.blogspot.com/feeds/posts/default/-/picketlink" htmlUrl="http://anil-identity.blogspot.com/search/label/picketlink"/>
+            <outline text="resteasy" title="resteasy" type="rss"
+                xmlUrl="http://bill.burkecentral.com/category/resteasy/feed/" htmlUrl="http://bill.burkecentral.com"/>
+            <outline text="rhq" title="rhq" type="rss"
+                xmlUrl="https://community.jboss.org/en/feeds/blogs?community=2121" htmlUrl="https://community.jboss.org/community/rhq?view=blog"/>
+            <outline text="riftsaw" title="riftsaw" type="rss"
+                xmlUrl="http://riftsaw.blogspot.com/feeds/posts/default" htmlUrl="http://riftsaw.blogspot.com/"/>
+            <outline text="savara" title="savara" type="rss"
+                xmlUrl="http://jboss-savara.blogspot.com/feeds/posts/default" htmlUrl="http://jboss-savara.blogspot.com/"/>
+            <outline text="seam3" title="seam3" type="rss"
+                xmlUrl="http://seamframework.org/service/Feed/atom/Aggregate/Seam3News" htmlUrl="http://seamframework.org"/>
+            <outline text="slapi-nis" title="slapi-nis" type="rss"
+                xmlUrl="http://page2rss.com/rss/324ec8548b46af78b37a2b7dbc2bce46" htmlUrl="http://page2rss.com/324ec8548b46af78b37a2b7dbc2bce46"/>
+            <outline text="snowdrop" title="snowdrop" type="rss"
+                xmlUrl="https://community.jboss.org/community/snowdrop/blog/feeds/posts" htmlUrl="https://community.jboss.org/community/snowdrop/blog"/>
+            <outline text="switchyard" title="switchyard" type="rss"
+                xmlUrl="https://community.jboss.org/community/switchyard/blog/feeds/posts" htmlUrl="https://community.jboss.org/community/switchyard/blog"/>
+            <outline text="teiid" title="teiid" type="rss"
+                xmlUrl="http://teiid.blogspot.com/feeds/posts/default" htmlUrl="http://teiid.blogspot.com/"/>
+            <outline text="tomcat" title="tomcat" type="rss"
+                xmlUrl="http://tomcat.markmail.org/atom/+list:org.apache.tomcat.announce" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ftomcat.markmail.org%2Fatom%2F%2Blist%3Aorg.apache.tomcat.announce"/>
+            <outline text="torquebox" title="torquebox" type="rss"
+                xmlUrl="http://torquebox.org/news.atom" htmlUrl="http://torquebox.org/"/>
+            <outline text="wise" title="wise" type="rss"
+                xmlUrl="http://jbosswise.blogspot.com/feeds/posts/default" htmlUrl="http://jbosswise.blogspot.com/"/>
+            <outline text="xnio" title="xnio" type="rss"
+                xmlUrl="http://planet.jboss.org/xml/xnio?type=atom" htmlUrl="http://planet.jboss.org/view/xnio"/>
+        </outline>
+        <outline title="desktop" text="desktop">
+            <outline text="avahi" title="avahi" type="rss"
+                xmlUrl="http://page2rss.com/rss/3ac45cde7a600b29964cc72c4fdcb6a2" htmlUrl="http://page2rss.com/3ac45cde7a600b29964cc72c4fdcb6a2"/>
+            <outline text="cairo" title="cairo" type="rss"
+                xmlUrl="http://cairographics.org/news/index.rss" htmlUrl="http://cairographics.org//news/"/>
+            <outline text="dbus" title="dbus" type="rss"
+                xmlUrl="http://page2rss.com/rss/c6af6314c0676bfd6aa4c6df2c0df039" htmlUrl="http://page2rss.com/c6af6314c0676bfd6aa4c6df2c0df039"/>
+            <outline text="evolution-exchange"
+                title="evolution-exchange" type="rss"
+                xmlUrl="http://page2rss.com/rss/ae970ec2f23a77f4b2d58a48e0fe1c52" htmlUrl="http://page2rss.com/ae970ec2f23a77f4b2d58a48e0fe1c52"/>
+            <outline text="evoluton-data-server"
+                title="evoluton-data-server" type="rss"
+                xmlUrl="http://page2rss.com/rss/0bb6022a7552a4f194a5194c0dc48046" htmlUrl="http://page2rss.com/0bb6022a7552a4f194a5194c0dc48046"/>
+            <outline text="firefox" title="firefox" type="rss"
+                xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
+            <outline text="fontconfig" title="fontconfig" type="rss"
+                xmlUrl="http://page2rss.com/0744292d15cdfa0be1b40086af065ce1" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2F0744292d15cdfa0be1b40086af065ce1"/>
+            <outline text="gamin" title="gamin" type="rss"
+                xmlUrl="http://page2rss.com/rss/0a072d6f242e8d6d32b3dc76e9ed2253" htmlUrl="http://page2rss.com/0a072d6f242e8d6d32b3dc76e9ed2253"/>
+            <outline text="gnome" title="gnome" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gnome.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gnome.announce"/>
+            <outline text="gnome-bluetooth" title="gnome-bluetooth"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/b58e896761ed3465d4c34e11c0bccc07" htmlUrl="http://page2rss.com/b58e896761ed3465d4c34e11c0bccc07"/>
+            <outline text="gnome-control-center"
+                title="gnome-control-center" type="rss"
+                xmlUrl="http://page2rss.com/rss/84515a64b71d6381109a8a5116f7f87b" htmlUrl="http://page2rss.com/84515a64b71d6381109a8a5116f7f87b"/>
+            <outline text="gnome-devel" title="gnome-devel" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gnome.devel.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gnome.devel.announce"/>
+            <outline text="gnome-disk-utility"
+                title="gnome-disk-utility" type="rss"
+                xmlUrl="http://page2rss.com/rss/b4b056dc40651ab632f4eea269a1070b" htmlUrl="http://page2rss.com/b4b056dc40651ab632f4eea269a1070b"/>
+            <outline text="gnome-keyring" title="gnome-keyring"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/25a369f4cc00a3366432a60517c244af" htmlUrl="http://page2rss.com/25a369f4cc00a3366432a60517c244af"/>
+            <outline text="gnome-power-manager"
+                title="gnome-power-manager" type="rss"
+                xmlUrl="http://page2rss.com/rss/257d398f7197687168773b15e535c514" htmlUrl="http://page2rss.com/257d398f7197687168773b15e535c514"/>
+            <outline text="gnome-shell" title="gnome-shell" type="rss"
+                xmlUrl="http://page2rss.com/rss/ef6b7ff6e1ed81324b12c0dd506fda57" htmlUrl="http://page2rss.com/ef6b7ff6e1ed81324b12c0dd506fda57"/>
+            <outline text="gnome-user-share" title="gnome-user-share"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/b37e63c1b5f7cc1c59ccd7247b3d900d" htmlUrl="http://page2rss.com/b37e63c1b5f7cc1c59ccd7247b3d900d"/>
+            <outline text="gtk+" title="gtk+" type="rss"
+                xmlUrl="http://identi.ca/api/statuses/user_timeline/135193.rss" htmlUrl="http://identi.ca/gtktoolkit"/>
+            <outline text="gvfs" title="gvfs" type="rss"
+                xmlUrl="http://page2rss.com/rss/b8170ea0e3683722ba174a1cd6bc5ca6" htmlUrl="http://page2rss.com/b8170ea0e3683722ba174a1cd6bc5ca6"/>
+            <outline text="libreoffice" title="libreoffice" type="rss"
+                xmlUrl="http://blog.documentfoundation.org/feed/" htmlUrl="http://blog.documentfoundation.org"/>
+            <outline text="libreoffice-ml" title="libreoffice-ml"
+                type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.documentfoundation.announce" htmlUrl="http://blog.gmane.org/gmane.comp.documentfoundation.announce"/>
+            <outline text="nautilus" title="nautilus" type="rss"
+                xmlUrl="http://page2rss.com/rss/f4578238a27de4253ddcfaefe8f63b92" htmlUrl="http://page2rss.com/f4578238a27de4253ddcfaefe8f63b92"/>
+            <outline text="polkit-qt" title="polkit-qt" type="rss"
+                xmlUrl="https://projects.kde.org/projects/kdesupport/polkit-qt-1/news.atom" htmlUrl="https://projects.kde.org/projects/kdesupport/polkit-qt-1/news"/>
+            <outline text="poppler" title="poppler" type="rss"
+                xmlUrl="http://page2rss.com/rss/ea1deaed25931fbe192e85e43f7a9e92" htmlUrl="http://page2rss.com/ea1deaed25931fbe192e85e43f7a9e92"/>
+            <outline text="totem" title="totem" type="rss"
+                xmlUrl="http://page2rss.com/rss/052260580696b01124fcda02b2b5e963" htmlUrl="http://page2rss.com/052260580696b01124fcda02b2b5e963"/>
+            <outline text="wayland" title="wayland" type="rss"
+                xmlUrl="http://page2rss.com/rss/bd6d88d78612cfd1c427b6874ef0fbf3" htmlUrl="http://page2rss.com/bd6d88d78612cfd1c427b6874ef0fbf3"/>
+            <outline text="xorg" title="xorg" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.freedesktop.xorg.announce" htmlUrl="http://blog.gmane.org/gmane.comp.freedesktop.xorg.announce"/>
+        </outline>
+        <outline title="gluster" text="gluster">
+            <outline
+                text="Gluster.org Community Website | GlusterFS is a cluster file-system ..."
+                title="Gluster.org Community Website | GlusterFS is a cluster file-system ..."
+                type="rss"
+                xmlUrl="http://www.gluster.org/frontpage/feed/" htmlUrl="http://www.gluster.org"/>
+        </outline>
+        <outline title="devtools" text="devtools">
+            <outline text="ceylon" title="ceylon" type="rss"
+                xmlUrl="http://ceylon-lang.org/blog/blog.atom" htmlUrl="http://ceylon-lang.org/"/>
+            <outline text="eclipse" title="eclipse" type="rss"
+                xmlUrl="http://feeds.feedburner.com/eclipse/fnews" htmlUrl="http://www.eclipse.org"/>
+            <outline text="gcc" title="gcc" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gcc.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gcc.announce"/>
+            <outline text="gdb" title="gdb" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gdb.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gdb.announce"/>
+            <outline text="jruby" title="jruby" type="rss"
+                xmlUrl="http://jruby.org/atom.xml" htmlUrl="http://www.jruby.org"/>
+            <outline text="maven" title="maven" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.apache.maven.announce" htmlUrl="http://blog.gmane.org/gmane.comp.apache.maven.announce"/>
+            <outline text="openjdk" title="openjdk" type="rss"
+                xmlUrl="http://planetjdk.org/feed.rss" htmlUrl="http://planetjdk.org"/>
+            <outline text="oprofile" title="oprofile" type="rss"
+                xmlUrl="http://page2rss.com/b538f84634611cefade375580d4504ec" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2Fb538f84634611cefade375580d4504ec"/>
+            <outline text="papi" title="papi" type="rss"
+                xmlUrl="http://page2rss.com/rss/177419ff4f773bf897dfc194c11986ea" htmlUrl="http://page2rss.com/177419ff4f773bf897dfc194c11986ea"/>
+            <outline text="patch" title="patch" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=patch" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dpatch"/>
+            <outline text="patchutils" title="patchutils" type="rss"
+                xmlUrl="http://page2rss.com/rss/ffcc2b8f33830c969a5d310734a5e465" htmlUrl="http://page2rss.com/ffcc2b8f33830c969a5d310734a5e465"/>
+            <outline text="pcp" title="pcp" type="rss"
+                xmlUrl="http://page2rss.com/rss/43d0f1d0e0562172cb0fef23b6b20075" htmlUrl="http://page2rss.com/43d0f1d0e0562172cb0fef23b6b20075"/>
+            <outline text="python" title="python" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.python.announce" htmlUrl="http://blog.gmane.org/gmane.comp.python.announce"/>
+            <outline text="systemtap" title="systemtap" type="rss"
+                xmlUrl="http://page2rss.com/rss/285e046b6d59eb1f7102c8885e94b451" htmlUrl="http://page2rss.com/285e046b6d59eb1f7102c8885e94b451"/>
+            <outline text="valgrind" title="valgrind" type="rss"
+                xmlUrl="http://page2rss.com/rss/8345e43c450113ed30be309871e360ef" htmlUrl="http://page2rss.com/8345e43c450113ed30be309871e360ef"/>
+            <outline text="vc-dwim" title="vc-dwim" type="rss"
+                xmlUrl="http://savannah.gnu.org/news/atom.php?group=vc-dwim" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dvc-dwim"/>
+        </outline>
+        <outline title="storecompute" text="storecompute">
+            <outline text="device-mapper" title="device-mapper"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/76791819e3783ad24c3d057942658d76" htmlUrl="http://page2rss.com/76791819e3783ad24c3d057942658d76"/>
+            <outline text="gluster" title="gluster" type="rss"
+                xmlUrl="http://www.gluster.org/blog/feed/" htmlUrl="http://www.gluster.org"/>
+            <outline text="htcondor" title="htcondor" type="rss"
+                xmlUrl="http://htcondor.github.com/planet/atom.xml" htmlUrl="http://htcondor.github.com/"/>
+            <outline text="lvm2" title="lvm2" type="rss"
+                xmlUrl="http://page2rss.com/rss/5dfcf4bb33882046e54fce1b4d7d77d3" htmlUrl="http://page2rss.com/5dfcf4bb33882046e54fce1b4d7d77d3"/>
+            <outline text="open vswitch" title="open vswitch" type="rss"
+                xmlUrl="http://openvswitch.org/feed/" htmlUrl="http://openvswitch.org"/>
+            <outline text="pacemaker" title="pacemaker" type="rss"
+                xmlUrl="http://theclusterguy.clusterlabs.org/rss" htmlUrl="http://theclusterguy.clusterlabs.org/"/>
+            <outline text="postgresql" title="postgresql" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.db.postgresql.announce" htmlUrl="http://blog.gmane.org/gmane.comp.db.postgresql.announce"/>
+            <outline text="samba" title="samba" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.network.samba.announce" htmlUrl="http://blog.gmane.org/gmane.network.samba.announce"/>
+            <outline text="wallaby" title="wallaby" type="rss"
+                xmlUrl="http://getwallaby.com/atom.xml" htmlUrl="http://getwallaby.com/"/>
+        </outline>
+        <outline title="cloudvirt" text="cloudvirt">
+            <outline text="aeolus" title="aeolus" type="rss"
+                xmlUrl="http://blog.aeolusproject.org/feed/" htmlUrl="http://blog.aeolusproject.org"/>
+            <outline text="augeas" title="augeas" type="rss"
+                xmlUrl="http://page2rss.com/rss/d1471ada0cac8962f8460f9f8bd9c13d" htmlUrl="http://page2rss.com/d1471ada0cac8962f8460f9f8bd9c13d"/>
+            <outline text="deltacloud" title="deltacloud" type="rss"
+                xmlUrl="http://page2rss.com/rss/32ec22bf4e56bf798a7e0959636156be" htmlUrl="http://page2rss.com/32ec22bf4e56bf798a7e0959636156be"/>
+            <outline text="katello" title="katello" type="rss"
+                xmlUrl="http://www.katello.org/feed/" htmlUrl="http://www.katello.org"/>
+            <outline text="kvm" title="kvm" type="rss"
+                xmlUrl="http://www.linux-kvm.com/rss.xml" htmlUrl="http://www.linux-kvm.com"/>
+            <outline text="libguestfs" title="libguestfs" type="rss"
+                xmlUrl="http://rwmj.wordpress.com/tag/libguestfs/feed/" htmlUrl="http://rwmj.wordpress.com"/>
+            <outline text="libvirt" title="libvirt" type="rss"
+                xmlUrl="http://page2rss.com/654c91ad9a318c19c973cf4fd5916b0e" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2F654c91ad9a318c19c973cf4fd5916b0e"/>
+            <outline text="openshift origin" title="openshift origin"
+                type="rss"
+                xmlUrl="https://openshift.redhat.com/community/blogs/feed" htmlUrl="https://openshift.redhat.com/community/blogs"/>
+            <outline text="openstack" title="openstack" type="rss"
+                xmlUrl="http://www.openstack.org/blog/feed/" htmlUrl="http://www.openstack.org/blog"/>
+            <outline text="ovirt" title="ovirt" type="rss"
+                xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.emulators.ovirt.announce" htmlUrl="http://blog.gmane.org/gmane.comp.emulators.ovirt.announce"/>
+            <outline text="spice protocol" title="spice protocol"
+                type="rss"
+                xmlUrl="http://page2rss.com/rss/60872022ebc09cdb35a729e077c64f02" htmlUrl="http://page2rss.com/60872022ebc09cdb35a729e077c64f02"/>
+            <outline text="spice server" title="spice server" type="rss"
+                xmlUrl="http://page2rss.com/rss/baf02872d7a174c24abe8d16f3b2a8e3" htmlUrl="http://page2rss.com/baf02872d7a174c24abe8d16f3b2a8e3"/>
+            <outline text="spice-gtk" title="spice-gtk" type="rss"
+                xmlUrl="http://page2rss.com/rss/267113d3c6ee1ad61a10443a1003398c" htmlUrl="http://page2rss.com/267113d3c6ee1ad61a10443a1003398c"/>
+            <outline text="virt-manager" title="virt-manager" type="rss"
+                xmlUrl="http://page2rss.com/rss/a62ce338e86fd8f5d29a2ecfbe155ee4" htmlUrl="http://page2rss.com/a62ce338e86fd8f5d29a2ecfbe155ee4"/>
+        </outline>
+    </body>
+</opml>
