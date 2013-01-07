@@ -259,13 +259,6 @@
             <outline text="xorg" title="xorg" type="rss"
                 xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.freedesktop.xorg.announce" htmlUrl="http://blog.gmane.org/gmane.comp.freedesktop.xorg.announce"/>
         </outline>
-        <outline title="gluster" text="gluster">
-            <outline
-                text="Gluster.org Community Website | GlusterFS is a cluster file-system ..."
-                title="Gluster.org Community Website | GlusterFS is a cluster file-system ..."
-                type="rss"
-                xmlUrl="http://www.gluster.org/frontpage/feed/" htmlUrl="http://www.gluster.org"/>
-        </outline>
         <outline title="devtools" text="devtools">
             <outline text="ceylon" title="ceylon" type="rss"
                 xmlUrl="http://ceylon-lang.org/blog/blog.atom" htmlUrl="http://ceylon-lang.org/"/>
