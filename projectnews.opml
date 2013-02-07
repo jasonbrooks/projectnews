@@ -33,8 +33,6 @@
                 xmlUrl="http://savannah.gnu.org/news/atom.php?group=gnulib" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dgnulib"/>
             <outline text="grep" title="grep" type="rss"
                 xmlUrl="http://savannah.gnu.org/news/atom.php?group=grep" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dgrep"/>
-            <outline text="grub" title="grub" type="rss"
-                xmlUrl="http://page2rss.com/rss/660dfeeb317224f588f9768fd5a97389" htmlUrl="http://page2rss.com/660dfeeb317224f588f9768fd5a97389"/>
             <outline text="idutils" title="idutils" type="rss"
                 xmlUrl="http://savannah.gnu.org/news/atom.php?group=idutils" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Didutils"/>
             <outline text="Kernel Audit" title="Kernel Audit" type="rss"
