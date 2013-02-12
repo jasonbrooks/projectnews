@@ -274,8 +274,6 @@
                 xmlUrl="http://planetjdk.org/feed.rss" htmlUrl="http://planetjdk.org"/>
             <outline text="oprofile" title="oprofile" type="rss"
                 xmlUrl="http://page2rss.com/b538f84634611cefade375580d4504ec" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2Fb538f84634611cefade375580d4504ec"/>
-            <outline text="papi" title="papi" type="rss"
-                xmlUrl="http://page2rss.com/rss/177419ff4f773bf897dfc194c11986ea" htmlUrl="http://page2rss.com/177419ff4f773bf897dfc194c11986ea"/>
             <outline text="patch" title="patch" type="rss"
                 xmlUrl="http://savannah.gnu.org/news/atom.php?group=patch" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fsavannah.gnu.org%2Fnews%2Fatom.php%3Fgroup%3Dpatch"/>
             <outline text="patchutils" title="patchutils" type="rss"
