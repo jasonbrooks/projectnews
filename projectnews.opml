@@ -209,8 +209,6 @@
                 xmlUrl="https://blog.mozilla.org/feed/" htmlUrl="https://blog.mozilla.org"/>
             <outline text="fontconfig" title="fontconfig" type="rss"
                 xmlUrl="http://page2rss.com/0744292d15cdfa0be1b40086af065ce1" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpage2rss.com%2F0744292d15cdfa0be1b40086af065ce1"/>
-            <outline text="gamin" title="gamin" type="rss"
-                xmlUrl="http://page2rss.com/rss/0a072d6f242e8d6d32b3dc76e9ed2253" htmlUrl="http://page2rss.com/0a072d6f242e8d6d32b3dc76e9ed2253"/>
             <outline text="gnome" title="gnome" type="rss"
                 xmlUrl="http://rss.gmane.org/topics/complete/gmane.comp.gnome.announce" htmlUrl="http://blog.gmane.org/gmane.comp.gnome.announce"/>
             <outline text="gnome-bluetooth" title="gnome-bluetooth"
