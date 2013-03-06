@@ -64,8 +64,6 @@
                 xmlUrl="http://page2rss.com/rss/fcc0a4d956c1519bedb9855f23b78e68" htmlUrl="http://page2rss.com/fcc0a4d956c1519bedb9855f23b78e68"/>
             <outline text="Pulp" title="Pulp" type="rss"
                 xmlUrl="http://www.pulpproject.org/blog/feed/" htmlUrl="http://www.pulpproject.org"/>
-            <outline text="PulseAudio" title="PulseAudio" type="rss"
-                xmlUrl="http://page2rss.com/rss/8fdbda4c3655e3d15e4a4ad71a6d28bb" htmlUrl="http://page2rss.com/8fdbda4c3655e3d15e4a4ad71a6d28bb"/>
             <outline text="pungi" title="pungi" type="rss"
                 xmlUrl="http://page2rss.com/rss/a0cc31131fcbd03603a5433a7cb6132a" htmlUrl="http://page2rss.com/a0cc31131fcbd03603a5433a7cb6132a"/>
             <outline text="python-nss" title="python-nss" type="rss"
