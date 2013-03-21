@@ -223,9 +223,6 @@
             <outline text="gnome-keyring" title="gnome-keyring"
                 type="rss"
                 xmlUrl="http://page2rss.com/rss/25a369f4cc00a3366432a60517c244af" htmlUrl="http://page2rss.com/25a369f4cc00a3366432a60517c244af"/>
-            <outline text="gnome-power-manager"
-                title="gnome-power-manager" type="rss"
-                xmlUrl="http://page2rss.com/rss/257d398f7197687168773b15e535c514" htmlUrl="http://page2rss.com/257d398f7197687168773b15e535c514"/>
             <outline text="gnome-shell" title="gnome-shell" type="rss"
                 xmlUrl="http://page2rss.com/rss/ef6b7ff6e1ed81324b12c0dd506fda57" htmlUrl="http://page2rss.com/ef6b7ff6e1ed81324b12c0dd506fda57"/>
             <outline text="gnome-user-share" title="gnome-user-share"
